@@ -62,7 +62,7 @@ colorscheme solarized
 
 "---------NERD-TREE SETTINGS----------
 nmap <silent> <leader>t :NERDTreeTabsToggle<CR>
-let g:nerdtree_tabs_open_on_console_startup = 1
+let g:nerdtree_tabs_open_on_console_startup = 0
 
 
 "-------- SYNTASTIC SETTINGS---------
